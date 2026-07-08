@@ -17,11 +17,11 @@ docs/
 hardware/
     Schémas Altium, PCB, boîtier et composantes matérielles
 
-software/
-    Arduino, RT Box et logiciels de commande
+commandes Arduino/
+    commandes et code de référence Arduino
 
-simulation/
-    Modèles et simulations PLECS
+simulations et commandes PLECS/
+    Simulations et commandes PLECS
 
 resources/
     Documentation du fabricant, fiches techniques, références
